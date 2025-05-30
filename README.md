@@ -3,9 +3,6 @@
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.7.0-brightgreen.svg?logo=springboot)](https://spring.io/projects/spring-boot)
 [![Kafka](https://img.shields.io/badge/Kafka-3.0.0-blue.svg?logo=apachekafka)](https://kafka.apache.org/)
 [![Java](https://img.shields.io/badge/Java-17-blue.svg?logo=java)](https://www.oracle.com/java/)
-[![Build](https://img.shields.io/badge/build-passing-brightgreen.svg)](https://github.com/)
-[![License](https://img.shields.io/badge/license-MIT-lightgrey.svg)](LICENSE)
-
 ---
 
 ## 🚀 Project Overview
