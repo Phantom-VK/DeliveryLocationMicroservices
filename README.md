@@ -1,8 +1,3 @@
-Here’s a polished and professional `README.md` you can use for your Kafka + Spring Boot project. It includes a project description, usage, API details, and attractive badges:
-
----
-
-````markdown
 # 📦 Kafka Spring Boot Producer-Consumer Example
 
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.7.0-brightgreen.svg?logo=springboot)](https://spring.io/projects/spring-boot)
@@ -87,9 +82,3 @@ Location sent to kafka topic (45, 56)
 ...
 Location sent to kafka topic (34, 67)
 ```
-
----
-
-
-
-
