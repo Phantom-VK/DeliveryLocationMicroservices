@@ -16,11 +16,13 @@ public class KafkaService {
 
     private final Logger logger = LoggerFactory.getLogger(KafkaService.class);
 
-    public boolean updateLocation(String location){
+    public void updateLocation(String location){
 
-        this.kafkaTemplate.send(LOCATION_TOPIC, location);
+
+            this.kafkaTemplate.send(LOCATION_TOPIC, location);
+
+
         logger.info("Location sent to kafka topic {}", location);
-        return true;
 
     }
 }
